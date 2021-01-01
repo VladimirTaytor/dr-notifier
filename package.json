@@ -6,7 +6,8 @@
   "author": "Volodymyr Pihol <volodymyr.pihol@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "yarn nodemon ./src/index.js --config nodemon.config.json"
+    "start:prod": "NODE_ENV=production node src/index.js",
+    "start": "yarn nodemon src/index.js --config nodemon.config.json"
   },
   "dependencies": {
     "discord.js": "^11.5.1",
