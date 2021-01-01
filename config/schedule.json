@@ -1,0 +1,125 @@
+{
+  "Monday": {
+    "events": [
+      {
+        "name": "Demolition Club",
+        "message": "Demolition Club started it will end in 20 min!",
+        "type": "club",
+        "date": "30 12 * * 1"
+      },
+      {
+        "name": "Yakuza Peak",
+        "message": "Yakuza Peak will start in 10min get ready!",
+        "type": "global",
+        "date": "50 20 * * 1"
+      }
+    ]
+  },
+  "Tuesday": {
+    "events": [
+      {
+        "name": "Hunter Ranger",
+        "message": "Hunter Ranger started it will end in 20 minutes!",
+        "type": "club",
+        "date": "30 12 * * 2"
+      },
+      {
+        "name": "Contest",
+        "message": "Contest with stupid bases will start in 10 minutes get ready!",
+        "type": "contest",
+        "date": "50 20 * * 2"
+      }
+    ]
+  },
+  "Wednesday": {
+    "events": [
+      {
+        "name": "Demolition Club",
+        "message": "Demolition Club started it will end in 20 minutes!",
+        "type": "club",
+        "date": "30 12 * * 3"
+      },
+      {
+        "name": "Haunted Night",
+        "message": "Haunted Night will start in 10 minutes, come and find good leader!",
+        "type": "global",
+        "date": "50 20 * * 3"
+      }, {
+        "name": "Training Arena",
+        "message": "Training Arena started prepare your weapons and buffs!",
+        "type": "global",
+        "date": "30 21 * * 3"
+      }
+    ]
+  },
+  "Thursday": {
+    "events": [
+      {
+        "name": "Hunter Ranger",
+        "message": "Hunter Ranger started it will end in 20 minutes!",
+        "type": "club",
+        "date": "30 12 * * 4"
+      },
+      {
+        "name": "Contest",
+        "message": "Contest will start in 10 minutes, come and help your club!",
+        "type": "contest",
+        "date": "50 20 * * 4"
+      }
+    ]
+  },
+  "Friday": {
+    "events": [
+      {
+        "name": "Demolition Club",
+        "message": "Demolition Club started it will end in 20 minutes!",
+        "type": "club",
+        "date": "30 12 * * 5"
+      },
+      {
+        "name": "Yakuza Peak",
+        "message": "Yakuza Peak will start in 10min get ready!",
+        "type": "global",
+        "date": "50 20 * * 5"
+      }
+    ]
+  },
+  "Saturday": {
+    "events": [
+      {
+        "name": "Project Rehine",
+        "message": "Project Rehine started come to club base!",
+        "type": "club",
+        "date": "30 12 * * 6"
+      },
+      {
+        "name": "Defend Boss",
+        "message": "Defend Boss will start in 5min let's protect our boss!",
+        "type": "club",
+        "date": "55 20 * * 6"
+      },
+      {
+        "name": "Tokyo Moon Realm",
+        "message": "Tokyo Moon Realm started come and collect your crystals!",
+        "type": "global",
+        "date": "30 21 * * 6"
+      }
+    ]
+  },
+  "Sunday": {
+    "events": [
+      {
+        "name": "Song of Ice and Fire",
+        "message": "Song of Ice and Fire come to club base!",
+        "type": "club",
+        "date": "30 12 * * 0"
+      },
+      {
+        "name": "Bombs",
+        "message": "Bombs will start in 10 minutes get ready!",
+        "type": "global",
+        "date": "50 20 * * 0"
+      }
+    ]
+  }
+}
