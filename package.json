@@ -4,5 +4,9 @@
   "description": "Discord bot for Dragon Raja events notification",
   "main": "index.js",
   "author": "Volodymyr Pihol <volodymyr.pihol@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0"
+  }
 }
